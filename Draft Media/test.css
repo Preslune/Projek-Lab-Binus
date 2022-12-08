@@ -1,0 +1,11 @@
+body {
+    background-color: yellow;
+  }
+  
+@media only screen and (min-width: 1000px) {
+    #image {
+      display: none;
+      padding: 50px;
+      background-color: blue;
+    }
+  }
